@@ -28,9 +28,18 @@ a {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     text-decoration: underline;
+    font-weight: bold;
+    font-size: 15px;
 }
 
 a:hover {
     cursor: pointer;
     text-decoration: none;
+}
+
+#footer {
+    text-align: right;
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
 }
